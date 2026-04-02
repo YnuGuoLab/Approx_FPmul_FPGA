@@ -1,4 +1,4 @@
-# Approx_FPmux_FPGA
+# Approx_FPmul_FPGA
 
 ## Overview
 
